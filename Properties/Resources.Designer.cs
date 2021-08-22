@@ -59,5 +59,15 @@ namespace CertificateMailing.Properties {
                 resourceCulture = value;
             }
         }
+        
+        /// <summary>
+        ///   Looks up a localized resource of type System.Drawing.Bitmap.
+        /// </summary>
+        internal static System.Drawing.Bitmap certificatetemplate {
+            get {
+                object obj = ResourceManager.GetObject("certificatetemplate", resourceCulture);
+                return ((System.Drawing.Bitmap)(obj));
+            }
+        }
     }
 }
