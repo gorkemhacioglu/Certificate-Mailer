@@ -25,4 +25,4 @@
 7. Click Send button and wait...
 
 ## * Sample usage and output
-![alt text](https://www.mytwitchbot.com/images/CertificateSample.jpg)
+![alt text](https://www.mytwitchbot.com/images/CertificateSampleV0.jpg)
